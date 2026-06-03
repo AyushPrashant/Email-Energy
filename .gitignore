@@ -1,0 +1,17 @@
+# Java
+target/
+
+# React/Vite
+node_modules/
+dist/
+
+# IDE
+.idea/
+*.iml
+
+# Mac
+.DS_Store
+
+# Secrets
+src/main/resources/application.properties
+.env
